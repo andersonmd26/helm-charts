@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  template-backstage-workspace:
+  - apiVersion: v2
+    created: "2025-07-24T11:21:14.721964131-03:00"
+    description: Criação de recursos usando crossplane
+    digest: ff844f100256aff84b4493d030716b02344d6f0745329a105621b2cfb7379392
+    name: template-backstage-workspace
+    type: application
+    urls:
+    - https://github.com/andersonmd26/helm-charts/template-backstage-workspace-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-24T11:21:14.721705332-03:00"
