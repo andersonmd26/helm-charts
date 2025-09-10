@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   template-backstage-workspace:
   - apiVersion: v2
-    created: "2025-09-10T17:33:58.152012954-03:00"
+    created: "2025-09-10T17:44:49.990900863-03:00"
     description: Criação de recursos usando crossplane
     digest: 8e18434577c0613cc29ec2e62a5d7b86877dabffbb86f7d58781eab4f3d27ede
     name: template-backstage-workspace
@@ -12,7 +12,16 @@ entries:
     version: 0.1.0
   template-ecs-fargate:
   - apiVersion: v2
-    created: "2025-09-10T17:33:58.153052025-03:00"
+    created: "2025-09-10T17:44:49.99219772-03:00"
+    description: Criação de recursos usando crossplane
+    digest: fea17f5ec7030fdb7fc238476ede2e2a707ce1467997d91e10a9c3ca909a8caa
+    name: template-ecs-fargate
+    type: application
+    urls:
+    - https://andersonmd26.github.io/helm-charts/template-ecs-fargate-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    created: "2025-09-10T17:44:49.991821053-03:00"
     description: Criação de recursos usando crossplane
     digest: 02bc4343bad27e228f56705aee7e9654326bcb8b7f3aaf073930ba9a93e084cb
     name: template-ecs-fargate
@@ -21,7 +30,7 @@ entries:
     - https://andersonmd26.github.io/helm-charts/template-ecs-fargate-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v2
-    created: "2025-09-10T17:33:58.152561961-03:00"
+    created: "2025-09-10T17:44:49.991307141-03:00"
     description: Criação de recursos usando crossplane
     digest: bc8774986da8c540bad68e7f7ef75300da9de7341149fe14272da101f369abba
     name: template-ecs-fargate
@@ -29,4 +38,4 @@ entries:
     urls:
     - https://andersonmd26.github.io/helm-charts/template-ecs-fargate-0.1.0.tgz
     version: 0.1.0
-generated: "2025-09-10T17:33:58.151009187-03:00"
+generated: "2025-09-10T17:44:49.989999686-03:00"
